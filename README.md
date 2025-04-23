@@ -1,4 +1,4 @@
-# Bellabeat Case Study With R
+# Case Study: Bellabeat With R
 
 Welcome to my capstone project for the **Google Data Analytics Certificate**, where I analyze smart device data from **Bellabeat**, a high-tech company that manufactures health-focused smart products for women.
 
