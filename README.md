@@ -60,24 +60,6 @@ The data comes from [FitBit Fitness Tracker Data](https://www.kaggle.com/dataset
 
 ---
 
-## Folder Structure
-
-Bellabeat-Case-Study/ │ ├── bellabeat_analysis.ipynb # Main project notebook (Jupyter format) ├── bellabeat_analysis.Rmd # Original R Markdown file ├── bellabeat_dashboard.twbx ├── /images # Visuals used in README or analysis └── README.md # This file
-
-yaml
-Copy
-Edit
-
----
-
-## 🙋 About Me
-
-Hi! I'm **Sepide**, a data analyst passionate about turning messy data into meaningful insights. This capstone project is part of my journey to becoming a Business Intelligence professional.
-
-Feel free to explore, fork, or suggest improvements!
-
----
-
 ## How to Use
 
 1. Clone the repository or download the notebook.
