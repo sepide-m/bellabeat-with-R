@@ -1,4 +1,4 @@
-# Bellabeat Case Study – Google Data Analytics Capstone
+# Bellabeat Case Study With R
 
 Welcome to my capstone project for the **Google Data Analytics Certificate**, where I analyze smart device data from **Bellabeat**, a high-tech company that manufactures health-focused smart products for women.
 
@@ -69,6 +69,11 @@ The data comes from [FitBit Fitness Tracker Data](https://www.kaggle.com/dataset
 
 ---
 
+## Project On Kaggle
+[click here](https://www.kaggle.com/code/sepidehmoshfeghi/bellabeat)
+
+---
+
 ## Feedback & Contact
 
 Got suggestions or questions? I'd love to hear from you!  
@@ -76,5 +81,4 @@ Got suggestions or questions? I'd love to hear from you!
 
 ---
 
-**Thanks for checking out my Bellabeat case study!**  
-_If you liked it, hit the ⭐ Star button and leave a comment 😊_
+
